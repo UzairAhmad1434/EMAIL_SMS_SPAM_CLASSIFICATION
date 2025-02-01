@@ -2,6 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/SMS_SPAM_CLASSIFICATION" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EMAIL-SMS_SPAM_CLASSIFIER" vcs="Git" />
   </component>
 </project>
